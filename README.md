@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/tomsowerby/starred-package-installer) 
+
 # Starred Package Installer package for Atom.io
 
 Note: Currently failing with the v1.* API. Issues in the issue list to fix these fails. I'll get to them asap, happy to accept pull requests in the meantime.
